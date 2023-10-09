@@ -6,6 +6,8 @@ The module allows you to calculate areas of different figures.
 
 ## Quick Guide
 
+from AreaCalc import \*
+
 There are three functions:
 
 ## area_of_circle(radius, round_result=2) - allows you to calculate area of a circle, using only radius.
