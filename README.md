@@ -4,6 +4,10 @@
 
 The module allows you to calculate areas of different figures.
 
+## Instaling
+```
+pip install AreaCalculationSergey
+```
 ## Quick Guide
 
 ```
@@ -38,6 +42,4 @@ instance.area_rectangle(5, 4)
 
 ---
 
-## Instaling
 
-pip install AreaCalculationSergey
