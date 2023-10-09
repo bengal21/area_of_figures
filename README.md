@@ -16,6 +16,17 @@ Also you can add additional argument to round the result, by default is 2.
 
 ## right_triangle(side1, side2, side3) - allows you to know whether triangle is right or not.
 
+## How to add new metod
+```
+def area_rectangle(side1, side2, round_result=2):
+    return side1 * side2
+
+
+exemple = AreaCalc()
+exemple.area_rectangle = area_rectangle
+exemple.area_rectangle(5, 4)
+```
+
 ## Instaling
 
 pip install AreaCalculationSergey==0.0
