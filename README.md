@@ -4,7 +4,7 @@
 
 The module allows you to calculate areas of different figures.
 
-## Instaling
+## Installing
 ```
 pip install AreaCalculationSergey
 ```
