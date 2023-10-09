@@ -16,5 +16,9 @@ Also you can add additional argument to round the result, by default is 2.
 
 ## right_triangle(side1, side2, side3) - allows you to know whether triangle is right or not.
 
+## Instaling
+
+pip install AreaCalculationSergey==0.0
+
 ---
 
